@@ -13,9 +13,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://p12farm.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "p12farm/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -42,7 +42,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@Nikosfarmakis4"
 facebook:
   username               :
   app_id                 :
@@ -64,14 +64,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "https://p12farm.github.io/gr/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "p12farm"
   gitlab           :
   google_plus      :
   keybase          :
@@ -83,7 +83,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/Nikosfarmakis4"
   vine             :
   weibo            :
   xing             :
