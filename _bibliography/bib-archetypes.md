@@ -2,6 +2,7 @@
 layout: single
 title: "Αρχέτυπα"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 3."
+share: true
 show_meta: false
 teaser: ""
 header: no
