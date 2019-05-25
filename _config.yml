@@ -268,6 +268,7 @@ defaults:
     values:
       layout: gallery-figure
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
@@ -275,6 +276,7 @@ defaults:
     values:
       layout: single
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
@@ -282,6 +284,7 @@ defaults:
     values:
       layout: single
       header: no
+      share: true
       show_meta: false
   - scope:
       path: ""
@@ -289,4 +292,5 @@ defaults:
     values:
       layout: single
       header: no
+      share: true
       show_meta: false
