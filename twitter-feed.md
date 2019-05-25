@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My twitter posts"
+title: "My tweets"
 show_meta: true
 teaser: ""
 header: no
