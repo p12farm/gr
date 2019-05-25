@@ -2,7 +2,6 @@
 ######################
 .jekyll-metadata
 .sass-cache
-_site
 Gemfile.lock
 
 # OS generated files #
