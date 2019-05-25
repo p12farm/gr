@@ -211,30 +211,39 @@ compress_html:
 
 collections:
   making:
+    share: true
     output: true
     permalink: /making/:path/
   endorsements:
     output: true
+    share: true
     permalink: /endorsements/:path/
   quotes:
+    share: true
     output: true
     permalink: /quotes/:path/
   remix:
+    share: true
     output: true
     permalink: /remix/:path/
   notes:
+    share: true
     output: true
     permalink: /notes/:path/
   bibliography:
+    share: true
     output: true
     permalink: /bibliography/:path/
   biography:
+    share: true
     output: true
     permalink: /biography/:path/
   case-study:
+    share: true
     output: true
     permalink: /case-study/:path/
   gallery:
+    share: true
     output: true
     permalink: /gallery/:path/
   header:
