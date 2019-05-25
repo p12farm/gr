@@ -10,10 +10,10 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #
 # local production 
-# gem 'jekyll','3.7.4'
+gem 'jekyll','3.7.4'
 
 # deployment
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
 
